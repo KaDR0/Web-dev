@@ -1,0 +1,19 @@
+<div style="margin-top: 80px;">
+  <div class="main">
+    <img [routerLink]="['/albums', Ialbum.id]" class="prev" src="assets/images/free-icon-back-left-arrow-circular-button-outline-54623.png">
+    <h3>{{Ialbum.id}}{{Num}} album: {{Ialbum.title}}</h3>
+  </div>
+  <div id="contents">
+    <div id="contentarea" style="height: 100%" tabindex="0">
+      <div id="oNavigation" class="albgallery mosaic">
+        <div *ngFor="let p of photos" class="ph">
+          <img class="photos" src="{{p.url}}" alt="">
+          <div class="tre">
+            <span>#{{p.id}}-{{p.title}}</span>
+            <div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

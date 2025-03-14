@@ -1,0 +1,39 @@
+/* Add these styles to your component's CSS file */
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa; /* Light gray background */
+}
+
+.about {
+  background-color: #fff; /* White background for the about section */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+}
+
+.title {
+  color: #007bff; /* Blue title color */
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.text {
+  color: #555;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .about {
+    width: 90%; /* Adjust the width for smaller screens */
+  }
+}
+
+
+

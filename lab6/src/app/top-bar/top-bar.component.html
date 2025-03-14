@@ -1,0 +1,67 @@
+<div class="topBar">
+  <div class="topCont notLogged">
+    <div class="leftBar">
+      <div class="table">
+        <div class="cell logo">
+          <a [routerLink]="['/home']" target="_top">
+            <img class="logo" src="../../assets/images/logo-album-66h.png" title="Back to home page" alt="">
+          </a>
+        </div>
+        <div class="cell searchBar" style="height: 100%; width: 100%; vertical-align: middle;">
+          <div class="table collapsed search_controls">
+            <div class="cell search-field-cont">
+              <div>
+                <input id="searchTextBox" type="text" maxlength="300" placeholder="Enter the text to search, drag an image or click on the camera" name="__cps_sT">
+              </div>
+            </div>
+            <div class="cell group-addon">
+              <div><img style="width: 28px" alt="search" src="../../assets/images/search.svg"></div>
+            </div>
+            <div class="cell group-addon">
+              <div><img style="width: 26px" alt="advanced search" src="../../assets/images/plus.svg"></div>
+            </div>
+            <div class="cell group-addon last">
+              <div><img style="width: 22px" alt="visual search" src="../../assets/images/camera.svg"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="rightBar">
+      <div class="table">
+        <div class="cell">
+          <div class="rightbarTblContainer">
+            <table class="rightbarTbl">
+              <tr>
+                <td>
+                  <div class="optionDiv">
+                    <a href="#" [routerLink]="['/home']">
+                      <span id="lightboxIcon" class="material-icons" style="font-size: 24px; cursor: pointer;"><img class="icon" src="../../assets/images/free-icon-home-page-6659401.png"></span>
+                      <span class="iconSpan">Home</span>
+                    </a>
+                  </div>
+                </td>
+                <td>
+                  <div class="optionDiv">
+                    <a href="" [routerLink]="['/about']">
+                      <span id="cartIcon" class="material-icons" style="font-size: 24px; cursor: pointer"><img class="icon" src="../../assets/images/free-icon-www-1150575.png"></span>
+                      <span class="iconSpan">About</span>
+                    </a>
+                  </div>
+                </td>
+                <td>
+                  <div class="optionDiv">
+                    <a href="" [routerLink]="['/albums']">
+                      <span id="logInIcon" class="material-icons" style="font-size: 24px; cursor: pointer"><img class="icon" src="../../assets/images/free-icon-gallery-4401755.png"></span>
+                      <span class="iconSpan">Albums</span>
+                    </a>
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

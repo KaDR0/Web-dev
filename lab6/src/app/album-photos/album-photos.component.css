@@ -1,0 +1,61 @@
+#oNavigation {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.ph {
+  position: relative;
+  overflow: hidden;
+}
+
+.photos {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tre {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+}
+.tre:hover{
+  opacity: 1;
+}
+
+.ph div span {
+  font-size: 16px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 5px;
+  color: white;
+}
+
+.main{
+  overflow-y: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: solid grey 1px;
+  border-top: solid grey 1px;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 5px;
+}
+.main h3{
+  text-transform: uppercase;
+}
+.prev{
+  height: 40px;
+  width: 40px;
+  margin: 10px;
+}

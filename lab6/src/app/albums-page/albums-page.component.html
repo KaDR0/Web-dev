@@ -1,0 +1,62 @@
+<div class="bbs">
+  <div class="ctBox" (click)="NewPost()">
+    <span class="create">Create new Post</span>
+  </div>
+</div>
+<div>
+  <div class="favourite">
+    <div class="element first"></div>
+    <div class="element second"></div>
+    <div class="next" style="left: 10%;"><button class="nextBut" (click)="nextAlbum(false)"><</button></div>
+    <img id="sre" src="../../assets/images/Screenshot%202024-03-05%20at%2019.54.01.png">
+    <span id="title">{{ Posts[PostIds[albumId]].title }}</span>
+    <div class="next" style="right: 10%; top: 0;"><button class="nextBut" (click)="nextAlbum(true)">></button></div>
+  </div>
+  <br>
+  <div class="content">
+    <ul class="list">
+      <li class="albums" *ngFor="let p of Posts">
+        <img class="option" src="../../assets/images/Screenshot%202024-03-05%20at%2019.54.54.png" alt="">
+        <img class="rec" src="../../assets/images/free-icon-recycle-bin-3156999.png" alt="" (click)="deletePost(p.id)">
+        <a [routerLink]="['/albums', p.id]" class="title" href="">{{p.id}} - {{p.title}}</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div *ngIf="isAdd" class="popup" style="width: 800px;left: 340px;z-index: 10020;height: 480px;top: 80px;">
+  <div class="scrollwrap">
+    <div class="cntt">
+      <form id="theform">
+        <div id="advsearch" class="form">
+          <div class="titles">New Post</div>
+          <div class="text">
+            <div class="label">Title</div>
+            <input id="searchText" class="textsearch" type="text" [(ngModel)]="newPost.title" name="title">
+          </div>
+          <div class="text">
+            <div class="label">Photos links</div>
+            <textarea class="searchCodes" cols="25" rows="5"></textarea>
+            <div class="annotation">Links to your photos to each line. </div>
+          </div>
+          <div class="codes">
+            <div class="label">Description</div>
+            <textarea class="searchCodes" cols="25" rows="5"></textarea>
+            <div class="annotation">The description is not important. </div>
+          </div>
+          <div class="msg">
+            <span id="msg"></span>
+          </div>
+          <div class="btn">
+            <div style="margin: auto; display: inline-block; line-height: 0.8em;" class="hand hoverdark orange">
+              <img (click)="addPost()" style="width: 40px" alt="search" src="../../assets/images/ok.svg">
+              <br>create
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div id="_popupsStack_dot_aStack_op_0_cl__dot_close" class="popupcross" (click)="NewPost()">X</div>
+  </div>
+</div>
+

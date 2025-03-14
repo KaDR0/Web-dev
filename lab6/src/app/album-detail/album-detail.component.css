@@ -1,0 +1,115 @@
+/* Add these styles to your component's CSS file */
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  height: 400px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.card-text {
+  margin-left: 45px;
+  width: 400px;
+  color: #555;
+}
+
+.input-group {
+  margin-top: 20px;
+}
+
+.input-group-text {
+  background-color: #007bff;
+  color: #fff;
+  border: 1px solid #007bff;
+  height: 30px;
+  width: 100px;
+  border-radius: 0.3em;
+  cursor: pointer;
+}
+
+.form-control {
+  font-size: 16px;
+  height: 40px;
+  width: 300px;
+  border: 1px solid #007bff;
+  border-radius: 0.3em;
+}
+
+
+.btn {
+  margin-right: 10px;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.spinner-border {
+  color: #007bff;
+}
+.change{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.btn-success{
+  margin-left: 10px;
+  width: 50px;
+  height: 44px;
+  border: none;
+  background-color: transparent;
+}
+.btn-success img{
+  width: 20px;
+  height: 20px;
+}
+
+.btn-secondary{
+  font-size: 20px;
+  font-family: "DIN Condensed", serif;
+  background-color: transparent;
+  border: none;
+}
+.return{
+  width: 20px;
+  height: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.popupcross{
+  margin: 10px 0 0 10px;
+  cursor: pointer;
+}
+.btn-container{
+  cursor: pointer;
+  margin: 10px 0 0 270px;
+}
+.btns{
+  display: flex;
+  height: 40px;
+}

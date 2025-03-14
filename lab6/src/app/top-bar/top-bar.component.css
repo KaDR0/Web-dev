@@ -1,0 +1,213 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+.topBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: white;
+}
+
+.topCont{
+  display: inline-table;
+  width: 100%;
+  margin-top: 2px;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.topCont .notLogged  .leftBar {
+  display: table-cell;
+  width: 100%;
+  max-width: 950px;
+}
+
+.leftBar{
+  min-width: 800px;
+  margin-right: -60px;
+}
+
+.topCont .rightBar {
+  display: table-cell;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.leftBar > .table {
+  height: 50px;
+}
+.leftBar * {
+  box-sizing: border-box;
+}
+.table {
+  display: table;
+  box-sizing: border-box;
+}
+div .logo {
+  vertical-align: middle;
+  padding-left: 13px;
+  padding-right: 17px;
+  margin-top: 2px;
+}
+.cell {
+  display: table-cell;
+}
+
+a {
+  text-decoration: none;
+  color: #C64E00;
+}
+div.logo img.logo {
+  padding-right: 5px;
+}
+.topCont img.logo {
+  width: 171px;
+  height: 32px;
+}
+div.logo img {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.search_controls {
+  height: 45px;
+  width: 100%;
+  min-width: 200px;
+  max-width: 810px;
+}
+
+.collapsed {
+  border-collapse: collapse;
+}
+
+.search-field-cont {
+  vertical-align: middle;
+  padding: 0;
+  height: 100%;
+  line-height: 25px;
+}
+
+#searchTextBox {
+  font-weight: bold;
+  font-size: 16px;
+  color: rgb(73,73,73);
+  border-left: solid #c3c3c3 1px;
+  border-radius: 0.3em;
+  border-top: solid #c3c3c3 1px;
+  border-bottom: solid #c3c3c3 1px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.search-field-cont input {
+  width: 100%;
+  height: 45px;
+  padding-left: 10px;
+  padding-right: 5px;
+  margin: 0;
+  border: none;
+  font-family: Verdana,Arial,Helvetica,sans-serif;
+  outline: none;
+}
+.group-addon {
+  display: table-cell;
+  height: 100%;
+  width: 50px;
+  vertical-align: middle;
+  text-align: center;
+}
+.group-addon div {
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+  text-align: center;
+  border: solid #c3c3c3 1px;
+  border-right: 0;
+  border-radius: 0;
+  position: relative;
+  cursor: pointer;
+}
+.last{
+  border-right: solid #c3c3c3 1px;
+  border-radius: 0.3em;
+}
+img {
+  margin-top: 8px;
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+.topCont .rightBar {
+  display: table-cell;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.rightBar > .table {
+  width: 100%;
+}
+.table {
+  display: table;
+  box-sizing: border-box;
+}
+.cell {
+  display: table-cell;
+}
+.rightbarTblContainer {
+  display: flex;
+  float: right;
+}
+table {
+  display: table;
+  box-sizing: border-box;
+  text-indent: initial;
+  border-spacing: 2px;
+  border-color: gray;
+}
+.rightBar table.rightbarTbl {
+  text-align: center;
+  margin-right: 20px;
+}
+table {
+  border-collapse: collapse;
+}
+.rightbarTbl div.optionDiv {
+  white-space: nowrap;
+  text-align: center;
+  font-size: 16px;
+  margin-left: 50px;
+}
+
+.rightbarTbl div.optionDiv a {
+  color: #494949;
+  cursor: pointer;
+}
+.material-icons {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'liga';
+}
+
+.rightbarTbl div.optionDiv span {
+  vertical-align: middle;
+}
+.icon{
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -15px;
+}
+.iconSpan{
+  text-align: center;
+  font-size: 16px;
+}

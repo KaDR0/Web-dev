@@ -1,0 +1,36 @@
+<div *ngIf="Ialbum; else NotFound" class="main">
+    <div class="spinner-border loading" role="status" *ngIf="!isloaded">
+      <span class="sr-only">Loading...</span>
+    </div>
+    <div *ngIf="isloaded" class="card" style="width: 500px;">
+        <div class="btns">
+          <div class="popupcross" routerLink="/albums">
+            <img class="return" src="assets/images/free-icon-back-left-arrow-circular-button-outline-54623.png">
+            <span class="btn btn-secondary">Return back</span>
+          </div>
+          <div class="btn-container" routerLink="/albums/{{Ialbum.id}}/photos">
+            <span class="btn-secondary">Photos</span>
+            <img class="return" src="assets/images/free-icon-image-gallery-3342176.png">
+          </div>
+        </div>
+        <div class="card-body">
+          <h1>№{{Ialbum.id}}</h1>
+          <h4 class="card-title">{{Ialbum.title}}</h4>
+          <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae tenetur incidunt natus voluptas dolores veritatis!</p>
+          <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <button class="input-group-text" id="basic-addon1" (click)="isInput()">Change title</button>
+              </div>
+              <div class="change" *ngIf="isChange">
+                <input type="text" [(ngModel)]="title" name="title" class="form-control" placeholder="Enter new title">
+                <button class="btn btn-success" (click)="saveTitle()" [routerLink]="['/albums', Ialbum.id]"><img src="../../assets/images/free-icon-save-2550221.png">Save</button>
+              </div>
+          </div>
+        </div>
+    </div>
+</div>
+
+<ng-template #NotFound>
+  <app-not-found></app-not-found>
+</ng-template>
+
