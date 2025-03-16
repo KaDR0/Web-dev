@@ -1,0 +1,9 @@
+<div>
+    <app-launch-filter (filterSuccess)="onFilterSuccess($event)"></app-launch-filter>
+  </div>
+  
+  <div *ngFor="let launch of filteredLaunches">
+    <h3>{{ launch.name }}</h3>
+    <p>Success: {{ launch.success ? 'Yes' : 'No' }}</p>
+  </div>
+  
