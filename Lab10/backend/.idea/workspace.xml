@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f731afbe-9ba5-4778-90b1-5b44a2ea2026" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lab2/instagram.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/instagram.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_common.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/@angular_router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-BA76C74X.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-BA76C74X.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-E2F2CMEP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-E2F2CMEP.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-M2VF6NIF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-M2VF6NIF.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-QOHD3WUR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/chunk-QOHD3WUR.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/tslib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/.angular/cache/17.1.3/vite/deps/tslib.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/product-alerts/product-alerts.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/product-alerts/product-alerts.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/product-alerts/product-alerts.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/product-alerts/product-alerts.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/product-alerts/product-alerts.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/product-alerts/product-alerts.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/product-list/product-list.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/product-list/product-list.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/product-list/product-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/product-list/product-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/product-list/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/product-list/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/products.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/products.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/top-bar/top-bar.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/top-bar/top-bar.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/app/top-bar/top-bar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/app/top-bar/top-bar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/app/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/angular.io-example/.tsbuildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_common.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_core.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_forms.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_platform-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_router.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/@angular_router.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/_metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-BA76C74X.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-BA76C74X.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-E2F2CMEP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-E2F2CMEP.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-M2VF6NIF.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-M2VF6NIF.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-QOHD3WUR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/chunk-QOHD3WUR.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/tslib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab5/app/.angular/cache/17.1.3/vite/deps/tslib.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab6/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab6/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab7/task 2/demo/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab7/task 2/demo/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8/ShopBack/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab8/ShopBack/api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8/ShopBack/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab8/ShopBack/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8/ShopBack/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab8/ShopBack/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab8/ShopBack/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab8/ShopBack/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/hh_back/API/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/hh_back/API/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/hh_back/API/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/hh_back/API/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/hh_back/API/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/hh_back/API/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab9/hh_back/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab9/hh_back/db.sqlite3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fDhDIhg4RRZsZBEkDDRAo7Y5qy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Zhanibek/University/4 semester/Web/Web-Dev/lab10/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f731afbe-9ba5-4778-90b1-5b44a2ea2026" name="Changes" comment="" />
+      <created>1713341434816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713341434816</updated>
+      <workItem from="1713341435894" duration="262000" />
+      <workItem from="1713341714992" duration="9452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/backend$main.coverage" NAME="main Coverage Results" MODIFIED="1713341747504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
